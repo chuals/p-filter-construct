@@ -2,10 +2,10 @@
 This is a parallel implementation of xor and fuse filter construction. The code has been tested with CUDA 10.x versions.
 
 ## Running the code 
-nvcc -o pxorfilter.cu pxorfilter <br/>
+nvcc -o pxorfilter pxorfilter.cu <br/>
 ./pxorfilter
 
-nvcc -o pfusefilter.cu pfusefilter <br/>
+nvcc -o pfusefilter pfusefilter.cu <br/>
 ./pfusefilter
 
 ## Acknowledgements
