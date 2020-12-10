@@ -1,4 +1,4 @@
-# parallel-filter-construction
+# Parallelized filter construction
 This is a parallel implementation of xor and fuse filter construction. The code has been tested with CUDA 10.x versions.
 
 ## Running the code 
