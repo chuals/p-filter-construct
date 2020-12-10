@@ -525,11 +525,11 @@ bool testxor8() {
     return true;
 }
 
-/* int main() {
+int main() {
     for (size_t s = 10000000; s <= 10000000; s += 10000000) {
         // testxor8(s);
         testxor8();
 
         printf("\n");
     }
-} */
+}
